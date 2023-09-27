@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+#animal-photos{
+	padding:10px;
+	background-color:grey;
+	border-radius:10px;
+	
+}
+#photo-heading{
+	text-align:center;
+	color:white;
+	font-family:Arial, Helvetica, sans-serif;
+}
